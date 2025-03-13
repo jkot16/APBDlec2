@@ -1,0 +1,15 @@
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\bin\Debug\net9.0\APBDlec2.exe
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\bin\Debug\net9.0\APBDlec2.deps.json
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\bin\Debug\net9.0\APBDlec2.runtimeconfig.json
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\bin\Debug\net9.0\APBDlec2.dll
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\bin\Debug\net9.0\APBDlec2.pdb
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\APBDlec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\APBDlec2.AssemblyInfoInputs.cache
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\APBDlec2.AssemblyInfo.cs
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\APBDlec2.csproj.CoreCompileInputs.cache
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\APBDlec2.sourcelink.json
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\APBDlec2.dll
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\refint\APBDlec2.dll
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\APBDlec2.pdb
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\APBDlec2.genruntimeconfig.cache
+C:\Users\kotja\Desktop\APBDlec2\APBDlec2\obj\Debug\net9.0\ref\APBDlec2.dll
